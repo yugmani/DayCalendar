@@ -1,4 +1,4 @@
-# DayCalendar-
+# DayCalendar
 
 Day calendar to schedule the events/task/to do.  
 The header section displays current date and time.  
